@@ -1,0 +1,14 @@
+I will give u the instructions u need to create a front end using angular 
+
+the first there will be one page before login, the page is about the exam portal so there shoud be an about information
+in the prelogin page, on the top right there should be login or registration buttons which will redirect to the login
+page and the back ground of prelogin page will have a boy writing exam.
+
+and when the user clicks that register page it will redirect to the registration page and then there will be a simple
+page which will have 4 fields in the centre 1.username 2.email 3.password 4.confirmpassword. and at the bottom of these 
+fields have one line "account already exists?"and there will be word "login" and if login is clicked the login page will
+be opened. 
+
+when login is clicked in the prelogin page then the login page will be opened it will be similar to the register page 
+but the fields will be only email and the password. at bottom one line "have no account?" and a word "register".when this
+is clicked then register page will be opened.
